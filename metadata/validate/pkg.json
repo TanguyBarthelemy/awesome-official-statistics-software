@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"name":"validate","platform":"CRAN","license":"GPL-3","languages":["R"],"generatedAt":"2026-10-12T15:58:10.964Z"}
+=======
+{"name":"validate","platform":"CRAN","license":"GPL-3","languages":["R"],"generatedAt":"2026-10-13T12:32:56.227Z"}
+>>>>>>> e255a70cba95fc3a70ddb7d3313dea896f0a1cef
